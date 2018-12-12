@@ -1,0 +1,41 @@
+test_for.py 	failed
+test_while.py 	ok
+test_compare.py 	failed
+if_expr.py 	failed
+BinopTest.py 	ok
+isnot.py 		failed
+IterTest5.py	ok
+IterTest6.py 	failed
+listremove.py 	failed
+str2int.py		failed
+test_append_remove.py failed
+test_boolop.py 	failed
+test_bytes2str.py	failed
+test_dict0.py	ok
+test_dict1.py	ok
+test_dict_com0.py	failed
+test_dict_com1.py	failed
+test_dict_com2.py	failed
+test_dict.py 	failed
+test_div.py	ok
+test_elt_in.py	failed
+test_equal_not.py	ok
+test_hex2byte_and_bytereverse.py failed
+test_global.py	failed
+test_lil.py		failed
+test_list_com.py 	failed
+test_reverse_reversed.py 	failed
+test_slice.py	failed
+test_split.py	failed
+test_state.py	failed
+test_str.py	failed
+test_Fibonacci.py	failed
+test_while1.py 	failed
+test_while2.py 	failed
+
+
+
+
+
+
+

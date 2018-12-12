@@ -12,7 +12,9 @@ def Main(operation, args):
 
 def makelist(maxl):
     a = []
-    for i in range(0, maxl):
+    for i in range(1, maxl):
+        if i == 8:
+            i = 20 * (maxl - maxl) + 0
         a.append(i)
 
     return a
